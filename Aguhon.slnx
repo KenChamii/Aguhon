@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/backend/">
+    <Project Path="backend/Aguhon.API/Aguhon.API.csproj" />
+    <Project Path="backend/Aguhon.Application/Aguhon.Application.csproj" />
+    <Project Path="backend/Aguhon.Domain/Aguhon.Domain.csproj" />
+    <Project Path="backend/Aguhon.Infrastructure/Aguhon.Infrastructure.csproj" />
+  </Folder>
+</Solution>
